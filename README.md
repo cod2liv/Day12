@@ -16,3 +16,9 @@ Online GDB compiler - https://www.onlinegdb.com/online_c++_compiler
 8.Integer_Overflow-->https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 
 stackoverflow-- https://www.youtube.com/shorts/D1kEVJxfkig
+
+
+Some important Images
+1) Roadmap To becoming an ML engineer
+2) Approach to be used for approaching any ML Problem
+3) Statistics Graphs and their Functions
